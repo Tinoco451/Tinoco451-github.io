@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tinoco451-github.io/static/css/main.8ae28595.css",
-    "main.js": "/Tinoco451-github.io/static/js/main.8cf4dd46.js",
+    "main.css": "/Tinoco451-github.io/static/css/main.e7a569de.css",
+    "main.js": "/Tinoco451-github.io/static/js/main.dbc28d2c.js",
     "static/js/592.5de56bf4.chunk.js": "/Tinoco451-github.io/static/js/592.5de56bf4.chunk.js",
     "static/media/resume-pic.png": "/Tinoco451-github.io/static/media/resume-pic.7d2eafac5dbc594b1228.png",
     "static/media/logo_sub.png": "/Tinoco451-github.io/static/media/logo_sub.b287fa990bd98df8be2a.png",
@@ -13,12 +13,12 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Tinoco451-github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "static/media/logo.svg": "/Tinoco451-github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Tinoco451-github.io/index.html",
-    "main.8ae28595.css.map": "/Tinoco451-github.io/static/css/main.8ae28595.css.map",
-    "main.8cf4dd46.js.map": "/Tinoco451-github.io/static/js/main.8cf4dd46.js.map",
+    "main.e7a569de.css.map": "/Tinoco451-github.io/static/css/main.e7a569de.css.map",
+    "main.dbc28d2c.js.map": "/Tinoco451-github.io/static/js/main.dbc28d2c.js.map",
     "592.5de56bf4.chunk.js.map": "/Tinoco451-github.io/static/js/592.5de56bf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ae28595.css",
-    "static/js/main.8cf4dd46.js"
+    "static/css/main.e7a569de.css",
+    "static/js/main.dbc28d2c.js"
   ]
 }
